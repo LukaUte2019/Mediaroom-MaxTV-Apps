@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uidescription version="3.0">
+  <MrmlPage
+      id="SekiHairSalon"
+      appid="websitebuilder.export/1.0"
+      width="1280"
+      height="900">
+
+    <Header />
+
+    <FrontPanel
+        id="mainpanel"
+        visible="true"
+        LoadAsync="false"
+        DefaultMessage="Seki Hair Salon">
+
+      Welcome to Seki Hair Salon
+
+    </FrontPanel>
+
+    <Actions>
+      <Action name="Back" type="navigate" data="back"/>
+      <Action name="Refresh" type="reload"/>
+    </Actions>
+
+    <!-- Logo -->
+    <Image
+        id="logo"
+        left="30"
+        top="30"
+        width="120"
+        height="120"
+        borderradius="20"
+        url="https://sekihairsalon.4-web.site/icon"/>
+
+    <!-- Title -->
+    <Text
+        id="title"
+        left="170"
+        top="40"
+        width="450"
+        height="60"
+        foreground="#111111"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg32"
+        alignment="left">
+
+        Seki Hair Salon
+
+    </Text>
+
+    <!-- Subtitle -->
+    <Text
+        id="subtitle"
+        left="170"
+        top="90"
+        width="550"
+        height="40"
+        foreground="#666666"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg20">
+
+        Professional Haircuts and Barber Services
+
+    </Text>
+
+    <!-- Service Image -->
+    <Image
+        id="service_image"
+        left="40"
+        top="180"
+        width="320"
+        height="200"
+        borderradius="14"
+        url="https://images.unsplash.com/photo-1621605815971-fbc98d665033"/>
+
+    <!-- Service Title -->
+    <Text
+        id="service_title"
+        left="40"
+        top="400"
+        width="300"
+        height="40"
+        foreground="#111111"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg24">
+
+        Шишање
+
+    </Text>
+
+    <!-- Service Description -->
+    <Text
+        id="service_desc"
+        left="40"
+        top="440"
+        width="400"
+        height="50"
+        foreground="#666666"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg16">
+
+        Професионално шишање на мажи
+
+    </Text>
+
+    <!-- Price -->
+    <Text
+        id="service_price"
+        left="40"
+        top="490"
+        width="250"
+        height="40"
+        foreground="#2563eb"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg24">
+
+        From 350 MKD
+
+    </Text>
+
+    <!-- Book Button -->
+    <Button
+        id="book_button"
+        left="40"
+        top="550"
+        width="220"
+        height="55"
+        background="#2563eb"
+        foreground="#ffffff"
+        bordercolor="#2563eb"
+        borderradius="12"
+        href="page:booking">
+
+        Book Appointment
+
+    </Button>
+
+    <!-- Contact Section -->
+    <Text
+        id="contact_title"
+        left="450"
+        top="380"
+        width="250"
+        height="40"
+        foreground="#111111"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg24">
+
+        Contact Information
+
+    </Text>
+
+    <Text
+        id="email"
+        left="450"
+        top="430"
+        width="450"
+        height="30"
+        foreground="#444444"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg16">
+
+        Email: sekihairsalon2@hotmail.com
+
+    </Text>
+
+    <Text
+        id="phone"
+        left="450"
+        top="470"
+        width="300"
+        height="30"
+        foreground="#444444"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg16">
+
+        Phone: +38978530000
+
+    </Text>
+
+    <Text
+        id="address"
+        left="450"
+        top="510"
+        width="550"
+        height="60"
+        foreground="#444444"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg16">
+
+        Jane Sandanski Br44,
+        6000 Ohrid,
+        North Macedonia
+
+    </Text>
+
+    <!-- Work Hours Title -->
+    <Text
+        id="hours_title"
+        left="900"
+        top="380"
+        width="250"
+        height="40"
+        foreground="#111111"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg24">
+
+        Work Hours
+
+    </Text>
+
+    <!-- Work Hours -->
+    <Text
+        id="mon"
+        left="900"
+        top="430"
+        width="250"
+        height="25"
+        foreground="#555555"
+        fontstyle="Reg16">
+
+        Mon 10:00 - 21:00
+
+    </Text>
+
+    <Text
+        id="tue"
+        left="900"
+        top="460"
+        width="250"
+        height="25"
+        foreground="#555555"
+        fontstyle="Reg16">
+
+        Tue 10:00 - 21:00
+
+    </Text>
+
+    <Text
+        id="wed"
+        left="900"
+        top="490"
+        width="250"
+        height="25"
+        foreground="#555555"
+        fontstyle="Reg16">
+
+        Wed 10:00 - 21:00
+
+    </Text>
+
+    <Text
+        id="thu"
+        left="900"
+        top="520"
+        width="250"
+        height="25"
+        foreground="#555555"
+        fontstyle="Reg16">
+
+        Thu 10:00 - 21:00
+
+    </Text>
+
+    <Text
+        id="fri"
+        left="900"
+        top="550"
+        width="250"
+        height="25"
+        foreground="#555555"
+        fontstyle="Reg16">
+
+        Fri 10:00 - 21:00
+
+    </Text>
+
+    <Text
+        id="sat"
+        left="900"
+        top="580"
+        width="250"
+        height="25"
+        foreground="#555555"
+        fontstyle="Reg16">
+
+        Sat 10:00 - 21:00
+
+    </Text>
+
+    <Text
+        id="sun"
+        left="900"
+        top="610"
+        width="250"
+        height="25"
+        foreground="#555555"
+        fontstyle="Reg16">
+
+        Sun 11:00 - 14:00
+
+    </Text>
+
+    <!-- Footer -->
+    <Text
+        id="footer"
+        left="40"
+        top="840"
+        width="1200"
+        height="30"
+        foreground="#888888"
+        background="transparent"
+        bordercolor="transparent"
+        fontstyle="Reg14"
+        alignment="center">
+
+        © 2026 Seki Hair Salon. All rights reserved.
+
+    </Text>
+
+  </MrmlPage>
+</uidescription>
