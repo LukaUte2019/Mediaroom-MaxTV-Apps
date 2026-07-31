@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<uidescription version="3.0">
+<MrmlPage>
+    <Ticker id="NewsTicker"
+            width="1280"
+            height="40"
+            flowDirection="righttoleft"
+            duration="20"
+            repeatBehavior="forever"
+            itemsPadding="20"
+            snap="center">
+
+        <Text id="Item1">
+            Добредојдовте во LukaTube TV
+        </Text>
+
+        <Text id="Item2">
+            Нови видеа се достапни.
+        </Text>
+
+        <Text id="Item3">
+            Притиснете OK за повеќе информации.
+        </Text>
+
+    </Ticker>
+
+</MrmlPage>
+</uidescription>
