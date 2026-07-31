@@ -1,0 +1,1190 @@
+[
+    {
+        "name": "About",
+        "filename": "About.xml"
+    },
+    {
+        "name": "animations",
+        "filename": "animations.xml"
+    },
+    {
+        "name": "AppRollover - Element",
+        "filename": "elements/AppRollover.xml"
+    },
+    {
+        "name": "AppRolloverOld - Element",
+        "filename": "elements/AppRolloverOld.xml"
+    },
+    {
+        "name": "AspectRatioSettings",
+        "filename": "AspectRatioSettings.xml"
+    },
+    {
+        "name": "AspectRatioWizardStep1",
+        "filename": "AspectRatioWizardStep1.xml"
+    },
+    {
+        "name": "AspectRatioWizardStep2",
+        "filename": "AspectRatioWizardStep2.xml"
+    },
+    {
+        "name": "AspectRatioWizardStep3",
+        "filename": "AspectRatioWizardStep3.xml"
+    },
+    {
+        "name": "AudioDescriptionSettings",
+        "filename": "AudioDescriptionSettings.xml"
+    },
+    {
+        "name": "AudioDescriptionVolumeSettings",
+        "filename": "AudioDescriptionVolumeSettings.xml"
+    },
+    {
+        "name": "AudioLanguageSettings",
+        "filename": "AudioLanguageSettings.xml"
+    },
+    {
+        "name": "avtransportdescription",
+        "filename": "avtransportdescription.xml"
+    },
+    {
+        "name": "Background_Blue",
+        "filename": "Background_Blue.xml"
+    },
+    {
+        "name": "Background_Video",
+        "filename": "Background_Video.xml"
+    },
+    {
+        "name": "Background_VideoAndBlueOverLay",
+        "filename": "Background_VideoAndBlueOverLay.xml"
+    },
+    {
+        "name": "BootstrapDiag",
+        "filename": "BootstrapDiag.xml"
+    },
+    {
+        "name": "BootstrapRetryNotice",
+        "filename": "BootstrapRetryNotice.xml"
+    },
+    {
+        "name": "Bouquets",
+        "filename": "Bouquets.xml"
+    },
+    {
+        "name": "BouquetsSub",
+        "filename": "BouquetsSub.xml"
+    },
+    {
+        "name": "Bubble - Notifications",
+        "filename": "notifications/Bubble.xml"
+    },
+    {
+        "name": "BubbleSwapped - Notifications",
+        "filename": "notifications/BubbleSwapped.xml"
+    },
+    {
+        "name": "BuildSelector",
+        "filename": "BuildSelector.xml"
+    },
+    {
+        "name": "BusyPage",
+        "filename": "BusyPage.xml"
+    },
+    {
+        "name": "BusyPageHD",
+        "filename": "BusyPageHD.xml"
+    },
+    {
+        "name": "BusyPageW",
+        "filename": "BusyPageW.xml"
+    },
+    {
+        "name": "CallerIdMessageView - Notifications",
+        "filename": "notifications/CallerIdMessageView.xml"
+    },
+    {
+        "name": "CastListSub",
+        "filename": "CastListSub.xml"
+    },
+    {
+        "name": "Cc608Settings",
+        "filename": "Cc608Settings.xml"
+    },
+    {
+        "name": "Cc708Settings",
+        "filename": "Cc708Settings.xml"
+    },
+    {
+        "name": "ChannelGuidePage",
+        "filename": "ChannelGuidePage.xml"
+    },
+    {
+        "name": "ChannelGuidePageHD",
+        "filename": "ChannelGuidePageHD.xml"
+    },
+    {
+        "name": "ChannelGuidePageW",
+        "filename": "ChannelGuidePageW.xml"
+    },
+    {
+        "name": "ChannelProgramBrowseBar - Element",
+        "filename": "elements/ChannelProgramBrowseBar.xml"
+    },
+    {
+        "name": "ChannelReorderingSettings",
+        "filename": "ChannelReorderingSettings.xml"
+    },
+    {
+        "name": "ChannelRollover - Element",
+        "filename": "elements/ChannelRollover.xml"
+    },
+    {
+        "name": "ChannelScanningMoreInfo",
+        "filename": "ChannelScanningMoreInfo.xml"
+    },
+    {
+        "name": "ChannelScanningWizardStep1",
+        "filename": "ChannelScanningWizardStep1.xml"
+    },
+    {
+        "name": "ChannelScanningWizardStep2",
+        "filename": "ChannelScanningWizardStep2.xml"
+    },
+    {
+        "name": "ChannelScanningWizardStep3",
+        "filename": "ChannelScanningWizardStep3.xml"
+    },
+    {
+        "name": "ChannelTV",
+        "filename": "ChannelTV.xml"
+    },
+    {
+        "name": "ChannelTVBackground",
+        "filename": "ChannelTVBackground.xml"
+    },
+    {
+        "name": "ChannelTVBackgroundHD",
+        "filename": "ChannelTVBackgroundHD.xml"
+    },
+    {
+        "name": "ChannelTVBackgroundW",
+        "filename": "ChannelTVBackgroundW.xml"
+    },
+    {
+        "name": "ChannelTVHD",
+        "filename": "ChannelTVHD.xml"
+    },
+    {
+        "name": "ChannelTVW",
+        "filename": "ChannelTVW.xml"
+    },
+    {
+        "name": "ClosedCaptionSettings",
+        "filename": "ClosedCaptionSettings.xml"
+    },
+    {
+        "name": "CompanionConfig",
+        "filename": "CompanionConfig.xml"
+    },
+    {
+        "name": "CompanionSetup",
+        "filename": "CompanionSetup.xml"
+    },
+    {
+        "name": "Conflict",
+        "filename": "Conflict.xml"
+    },
+    {
+        "name": "ConflictInit",
+        "filename": "ConflictInit.xml"
+    },
+    {
+        "name": "ConflictRollover - Element",
+        "filename": "elements/ConflictRollover.xml"
+    },
+    {
+        "name": "connectionmanagerdescription",
+        "filename": "connectionmanagerdescription.xml"
+    },
+    {
+        "name": "ConnectionTroubleshooting",
+        "filename": "ConnectionTroubleshooting.xml"
+    },
+    {
+        "name": "DeadState",
+        "filename": "DeadState.xml"
+    },
+    {
+        "name": "Default_Background",
+        "filename": "Default_Background.xml"
+    },
+    {
+        "name": "Demo",
+        "filename": "Demo.xml"
+    },
+    {
+        "name": "Demo_Release",
+        "filename": "Demo_Release.xml"
+    },
+    {
+        "name": "description",
+        "filename": "description.xml"
+    },
+    {
+        "name": "desktopview",
+        "filename": "desktopview.xml"
+    },
+    {
+        "name": "desktopview2",
+        "filename": "desktopview2.xml"
+    },
+    {
+        "name": "desktopview3",
+        "filename": "desktopview3.xml"
+    },
+    {
+        "name": "desktopview4",
+        "filename": "desktopview4.xml"
+    },
+    {
+        "name": "DHCPSetting",
+        "filename": "DHCPSetting.xml"
+    },
+    {
+        "name": "Diagnostics",
+        "filename": "Diagnostics.xml"
+    },
+    {
+        "name": "Diagnostics2",
+        "filename": "Diagnostics2.xml"
+    },
+    {
+        "name": "Dialog",
+        "filename": "Dialog.xml"
+    },
+    {
+        "name": "DigitalAudioOutputSettings",
+        "filename": "DigitalAudioOutputSettings.xml"
+    },
+    {
+        "name": "dim",
+        "filename": "dim.xml"
+    },
+    {
+        "name": "DiskRepair",
+        "filename": "DiskRepair.xml"
+    },
+    {
+        "name": "dvbconfig",
+        "filename": "dvbconfig.xml"
+    },
+    {
+        "name": "DvrAddRecordingSub",
+        "filename": "DvrAddRecordingSub.xml"
+    },
+    {
+        "name": "DvrAppBrowseBar - Element",
+        "filename": "elements/DvrAppBrowseBar.xml"
+    },
+    {
+        "name": "DvrBrowseBar - Element",
+        "filename": "elements/DvrBrowseBar.xml"
+    },
+    {
+        "name": "DvrChangeStream",
+        "filename": "DvrChangeStream.xml"
+    },
+    {
+        "name": "DvrKeepUntil",
+        "filename": "DvrKeepUntil.xml"
+    },
+    {
+        "name": "DvrManualRecord",
+        "filename": "DvrManualRecord.xml"
+    },
+    {
+        "name": "DvrOneTimeSettings",
+        "filename": "DvrOneTimeSettings.xml"
+    },
+    {
+        "name": "DvrPlayback",
+        "filename": "DvrPlayback.xml"
+    },
+    {
+        "name": "DvrPlaybackBackground",
+        "filename": "DvrPlaybackBackground.xml"
+    },
+    {
+        "name": "DvrPlaybackBackgroundHD",
+        "filename": "DvrPlaybackBackgroundHD.xml"
+    },
+    {
+        "name": "DvrPlaybackBackgroundW",
+        "filename": "DvrPlaybackBackgroundW.xml"
+    },
+    {
+        "name": "DvrPlaybackHD",
+        "filename": "DvrPlaybackHD.xml"
+    },
+    {
+        "name": "DvrPlaybackW",
+        "filename": "DvrPlaybackW.xml"
+    },
+    {
+        "name": "DvrProgramInfo",
+        "filename": "DvrProgramInfo.xml"
+    },
+    {
+        "name": "DvrRecorded",
+        "filename": "DvrRecorded.xml"
+    },
+    {
+        "name": "DvrRecordedSub",
+        "filename": "DvrRecordedSub.xml"
+    },
+    {
+        "name": "DvrRollover - Element",
+        "filename": "elements/DvrRollover.xml"
+    },
+    {
+        "name": "DvrSeries",
+        "filename": "DvrSeries.xml"
+    },
+    {
+        "name": "DvrSeriesInfo",
+        "filename": "DvrSeriesInfo.xml"
+    },
+    {
+        "name": "DvrSeriesPriority",
+        "filename": "DvrSeriesPriority.xml"
+    },
+    {
+        "name": "DvrSeriesSettings",
+        "filename": "DvrSeriesSettings.xml"
+    },
+    {
+        "name": "DvrSettingsFork",
+        "filename": "DvrSettingsFork.xml"
+    },
+    {
+        "name": "DvrStreamChooser",
+        "filename": "DvrStreamChooser.xml"
+    },
+    {
+        "name": "DvrStreamChooserRollover - Element",
+        "filename": "elements/DvrStreamChooserRollover.xml"
+    },
+    {
+        "name": "DvrStreamChooserSub",
+        "filename": "DvrStreamChooserSub.xml"
+    },
+    {
+        "name": "DvrUpcomingSub",
+        "filename": "DvrUpcomingSub.xml"
+    },
+    {
+        "name": "EasAlert",
+        "filename": "EasAlert.xml"
+    },
+    {
+        "name": "EnhancedHdmiSecurity",
+        "filename": "EnhancedHdmiSecurity.xml"
+    },
+    {
+        "name": "ErrorPageMatching",
+        "filename": "ErrorPageMatching.xml"
+    },
+    {
+        "name": "FavoriteChannelsEdit",
+        "filename": "FavoriteChannelsEdit.xml"
+    },
+    {
+        "name": "FavoriteChannelsName",
+        "filename": "FavoriteChannelsName.xml"
+    },
+    {
+        "name": "FavoriteChannelsReorder",
+        "filename": "FavoriteChannelsReorder.xml"
+    },
+    {
+        "name": "FavoriteChannelsSelect",
+        "filename": "FavoriteChannelsSelect.xml"
+    },
+    {
+        "name": "FavoriteChannelsSettings",
+        "filename": "FavoriteChannelsSettings.xml"
+    },
+    {
+        "name": "FileSystemBrowser",
+        "filename": "FileSystemBrowser.xml"
+    },
+    {
+        "name": "Fingerprint - Element",
+        "filename": "elements/Fingerprint.xml"
+    },
+    {
+        "name": "FirstRunCheckNetwork",
+        "filename": "FirstRunCheckNetwork.xml"
+    },
+    {
+        "name": "FirstRunNetworkDiag",
+        "filename": "FirstRunNetworkDiag.xml"
+    },
+    {
+        "name": "FirstRunSelectLanguage",
+        "filename": "FirstRunSelectLanguage.xml"
+    },
+    {
+        "name": "FirstRunStaticIpSettings",
+        "filename": "FirstRunStaticIpSettings.xml"
+    },
+    {
+        "name": "GlobalExtensionConfig",
+        "filename": "GlobalExtensionConfig.xml"
+    },
+    {
+        "name": "GridGuide",
+        "filename": "GridGuide.xml"
+    },
+    {
+        "name": "GroupDvrMediaItemRollover - Element",
+        "filename": "elements/GroupDvrMediaItemRollover.xml"
+    },
+    {
+        "name": "GroupSearchResultRollover",
+        "filename": "GroupSearchResultRollover.xml"
+    },
+    {
+        "name": "GuideSettings",
+        "filename": "GuideSettings.xml"
+    },
+    {
+        "name": "HiddenChannelsSettings",
+        "filename": "HiddenChannelsSettings.xml"
+    },
+    {
+        "name": "HomeVideoProgramInfo",
+        "filename": "HomeVideoProgramInfo.xml"
+    },
+    {
+        "name": "HPNADiagnostics",
+        "filename": "HPNADiagnostics.xml"
+    },
+    {
+        "name": "JackpotStyle",
+        "filename": "JackpotStyle.xml"
+    },
+    {
+        "name": "Keyboards",
+        "filename": "Keyboards.xml"
+    },
+    {
+        "name": "LanguageSettings",
+        "filename": "LanguageSettings.xml"
+    },
+    {
+        "name": "LogEvents",
+        "filename": "LogEvents.xml"
+    },
+    {
+        "name": "LogOnUser",
+        "filename": "LogOnUser.xml"
+    },
+    {
+        "name": "LostTuner",
+        "filename": "LostTuner.xml"
+    },
+    {
+        "name": "ManualTransponderScanWizardAdd",
+        "filename": "ManualTransponderScanWizardAdd.xml"
+    },
+    {
+        "name": "ManualTransponderScanWizardRemove",
+        "filename": "ManualTransponderScanWizardRemove.xml"
+    },
+    {
+        "name": "ManualTransponderScanWizardSatellite",
+        "filename": "ManualTransponderScanWizardSatellite.xml"
+    },
+    {
+        "name": "ManualTransponderScanWizardScan",
+        "filename": "ManualTransponderScanWizardScan.xml"
+    },
+    {
+        "name": "ManualTransponderScanWizardStep1",
+        "filename": "ManualTransponderScanWizardStep1.xml"
+    },
+    {
+        "name": "MediaLanguages",
+        "filename": "MediaLanguages.xml"
+    },
+    {
+        "name": "Messages",
+        "filename": "Messages.xml"
+    },
+    {
+        "name": "MessagesSub",
+        "filename": "MessagesSub.xml"
+    },
+    {
+        "name": "MessageView - Notifications",
+        "filename": "notifications/MessageView.xml"
+    },
+    {
+        "name": "Monkey",
+        "filename": "Monkey.xml"
+    },
+    {
+        "name": "MultiRoomProgramInfo",
+        "filename": "MultiRoomProgramInfo.xml"
+    },
+    {
+        "name": "MuteControl",
+        "filename": "MuteControl.xml"
+    },
+    {
+        "name": "Napp",
+        "filename": "Napp.xml"
+    },
+    {
+        "name": "NavigationOverridesPFVodSearch",
+        "filename": "NavigationOverridesPFVodSearch.xml"
+    },
+    {
+        "name": "NavigationOverridesSantaFe",
+        "filename": "NavigationOverridesSantaFe.xml"
+    },
+    {
+        "name": "NavigationOverridesTakeHomeSantaFe",
+        "filename": "NavigationOverridesTakeHomeSantaFe.xml"
+    },
+    {
+        "name": "NavigationTargets",
+        "filename": "NavigationTargets.xml"
+    },
+    {
+        "name": "NonDismissibleNotification",
+        "filename": "NonDismissibleNotification.xml"
+    },
+    {
+        "name": "Notification",
+        "filename": "Notification.xml"
+    },
+    {
+        "name": "NotificationLow",
+        "filename": "NotificationLow.xml"
+    },
+    {
+        "name": "NumberEntryDialog",
+        "filename": "NumberEntryDialog.xml"
+    },
+    {
+        "name": "OptionsPanel",
+        "filename": "OptionsPanel.xml"
+    },
+    {
+        "name": "OptionsPanelSub",
+        "filename": "OptionsPanelSub.xml"
+    },
+    {
+        "name": "OrapaPlaybackHD",
+        "filename": "OrapaPlaybackHD.xml"
+    },
+    {
+        "name": "PageLoadError",
+        "filename": "PageLoadError.xml"
+    },
+    {
+        "name": "PangaeaProgramInfo",
+        "filename": "PangaeaProgramInfo.xml"
+    },
+    {
+        "name": "ParentalControl_AdultLocking",
+        "filename": "ParentalControl_AdultLocking.xml"
+    },
+    {
+        "name": "ParentalControl_AdultPassword",
+        "filename": "ParentalControl_AdultPassword.xml"
+    },
+    {
+        "name": "ParentalControl_Channels",
+        "filename": "ParentalControl_Channels.xml"
+    },
+    {
+        "name": "ParentalControl_Limit",
+        "filename": "ParentalControl_Limit.xml"
+    },
+    {
+        "name": "ParentalControl_Menu",
+        "filename": "ParentalControl_Menu.xml"
+    },
+    {
+        "name": "ParentalControl_Password",
+        "filename": "ParentalControl_Password.xml"
+    },
+    {
+        "name": "ParentalControl_ProtectDvr",
+        "filename": "ParentalControl_ProtectDvr.xml"
+    },
+    {
+        "name": "ParentalControl_ProtectVod",
+        "filename": "ParentalControl_ProtectVod.xml"
+    },
+    {
+        "name": "ParentalControl_Purchasing",
+        "filename": "ParentalControl_Purchasing.xml"
+    },
+    {
+        "name": "ParentalControl_SmartCardLocking",
+        "filename": "ParentalControl_SmartCardLocking.xml"
+    },
+    {
+        "name": "ParentalControl_SmartCardPassword",
+        "filename": "ParentalControl_SmartCardPassword.xml"
+    },
+    {
+        "name": "ParentalControl_Unlock",
+        "filename": "ParentalControl_Unlock.xml"
+    },
+    {
+        "name": "ParentalControl_UnratedContent",
+        "filename": "ParentalControl_UnratedContent.xml"
+    },
+    {
+        "name": "ParentalControl_UserTimeLocking",
+        "filename": "ParentalControl_UserTimeLocking.xml"
+    },
+    {
+        "name": "ParentalControl_UserTimeLocking_Day",
+        "filename": "ParentalControl_UserTimeLocking_Day.xml"
+    },
+    {
+        "name": "PartyScene",
+        "filename": "PartyScene.xml"
+    },
+    {
+        "name": "PerfDiagnostics",
+        "filename": "PerfDiagnostics.xml"
+    },
+    {
+        "name": "PerformanceTest",
+        "filename": "PerformanceTest.xml"
+    },
+    {
+        "name": "personalmediasettings",
+        "filename": "personalmediasettings.xml"
+    },
+    {
+        "name": "Photos",
+        "filename": "Photos.xml"
+    },
+    {
+        "name": "PinEntryDialog",
+        "filename": "PinEntryDialog.xml"
+    },
+    {
+        "name": "playtoprotocols",
+        "filename": "playtoprotocols.xml"
+    },
+    {
+        "name": "PowerOff",
+        "filename": "PowerOff.xml"
+    },
+    {
+        "name": "ProgramBrowseBar",
+        "filename": "ProgramBrowseBar.xml"
+    },
+    {
+        "name": "ProgramInfo",
+        "filename": "ProgramInfo.xml"
+    },
+    {
+        "name": "ProgramRollover - Element",
+        "filename": "elements/ProgramRollover.xml"
+    },
+    {
+        "name": "PurchasePassword",
+        "filename": "PurchasePassword.xml"
+    },
+    {
+        "name": "RATTestPage",
+        "filename": "RATTestPage.xml"
+    },
+    {
+        "name": "Rdp",
+        "filename": "Rdp.xml"
+    },
+    {
+        "name": "RdpAppBrowseBar - Element",
+        "filename": "elements/RdpAppBrowseBar.xml"
+    },
+    {
+        "name": "RdpAppRollover - Element",
+        "filename": "elements/RdpAppRollover.xml"
+    },
+    {
+        "name": "RDPBrowseBar - Element",
+        "filename": "elements/RDPBrowseBar.xml"
+    },
+    {
+        "name": "RdpCurrentRentals",
+        "filename": "RdpCurrentRentals.xml"
+    },
+    {
+        "name": "RdpCurrentRentalsSub",
+        "filename": "RdpCurrentRentalsSub.xml"
+    },
+    {
+        "name": "RdpCurrentRentalsSubStandalone",
+        "filename": "RdpCurrentRentalsSubStandalone.xml"
+    },
+    {
+        "name": "RDPKeyMap",
+        "filename": "RDPKeyMap.xml"
+    },
+    {
+        "name": "RDPProgramInfo",
+        "filename": "RDPProgramInfo.xml"
+    },
+    {
+        "name": "RDPRollover - Element",
+        "filename": "elements/RDPRollover.xml"
+    },
+    {
+        "name": "RdpSelfProvisioning",
+        "filename": "RdpSelfProvisioning.xml"
+    },
+    {
+        "name": "RdpStore",
+        "filename": "RdpStore.xml"
+    },
+    {
+        "name": "RdpStoreListSub",
+        "filename": "RdpStoreListSub.xml"
+    },
+    {
+        "name": "RdpStoreSub",
+        "filename": "RdpStoreSub.xml"
+    },
+    {
+        "name": "Recent - Element",
+        "filename": "elements/Recent.xml"
+    },
+    {
+        "name": "RecentPanel",
+        "filename": "RecentPanel.xml"
+    },
+    {
+        "name": "RecentPanelSettings",
+        "filename": "RecentPanelSettings.xml"
+    },
+    {
+        "name": "rendererdescription",
+        "filename": "rendererdescription.xml"
+    },
+    {
+        "name": "ReservedAppKeys",
+        "filename": "ReservedAppKeys.xml"
+    },
+    {
+        "name": "RetryAlgorithms",
+        "filename": "RetryAlgorithms.xml"
+    },
+    {
+        "name": "RfAddRemote",
+        "filename": "RfAddRemote.xml"
+    },
+    {
+        "name": "RfAddRemoteWizard1",
+        "filename": "RfAddRemoteWizard1.xml"
+    },
+    {
+        "name": "RfAddRemoteWizard2",
+        "filename": "RfAddRemoteWizard2.xml"
+    },
+    {
+        "name": "RFOutputChannelSettings",
+        "filename": "RFOutputChannelSettings.xml"
+    },
+    {
+        "name": "RfProgramRemote",
+        "filename": "RfProgramRemote.xml"
+    },
+    {
+        "name": "RfProgramRemoteCancel",
+        "filename": "RfProgramRemoteCancel.xml"
+    },
+    {
+        "name": "RfProgramRemoteDone",
+        "filename": "RfProgramRemoteDone.xml"
+    },
+    {
+        "name": "RfProgramRemoteError",
+        "filename": "RfProgramRemoteError.xml"
+    },
+    {
+        "name": "RfProgramRemoteWizard1",
+        "filename": "RfProgramRemoteWizard1.xml"
+    },
+    {
+        "name": "RfProgramRemoteWizard2",
+        "filename": "RfProgramRemoteWizard2.xml"
+    },
+    {
+        "name": "RfProgramRemoteWizard3",
+        "filename": "RfProgramRemoteWizard3.xml"
+    },
+    {
+        "name": "RfProgramRemoteWizard4",
+        "filename": "RfProgramRemoteWizard4.xml"
+    },
+    {
+        "name": "RfProgramRemoteWizard5",
+        "filename": "RfProgramRemoteWizard5.xml"
+    },
+    {
+        "name": "RTLSkin",
+        "filename": "RTLSkin.xml"
+    },
+    {
+        "name": "SatelliteConfigurationDefault",
+        "filename": "SatelliteConfigurationDefault.xml"
+    },
+    {
+        "name": "SatelliteConfigurationNeeded",
+        "filename": "SatelliteConfigurationNeeded.xml"
+    },
+    {
+        "name": "SatelliteInfoSub",
+        "filename": "SatelliteInfoSub.xml"
+    },
+    {
+        "name": "ScreenSaver",
+        "filename": "ScreenSaver.xml"
+    },
+    {
+        "name": "ScrollText - Notifications",
+        "filename": "notifications/ScrollText.xml"
+    },
+    {
+        "name": "Search",
+        "filename": "Search.xml"
+    },
+    {
+        "name": "SearchAllSub",
+        "filename": "SearchAllSub.xml"
+    },
+    {
+        "name": "SearchPeopleSub",
+        "filename": "SearchPeopleSub.xml"
+    },
+    {
+        "name": "SearchResultsForAPerson",
+        "filename": "SearchResultsForAPerson.xml"
+    },
+    {
+        "name": "SearchResultsForAPersonSub",
+        "filename": "SearchResultsForAPersonSub.xml"
+    },
+    {
+        "name": "SearchResultsGroupFolderView",
+        "filename": "SearchResultsGroupFolderView.xml"
+    },
+    {
+        "name": "SearchTitleSub",
+        "filename": "SearchTitleSub.xml"
+    },
+    {
+        "name": "SeatbeltDiag",
+        "filename": "SeatbeltDiag.xml"
+    },
+    {
+        "name": "SecondaryAudioSettings",
+        "filename": "SecondaryAudioSettings.xml"
+    },
+    {
+        "name": "ServiceSelector",
+        "filename": "ServiceSelector.xml"
+    },
+    {
+        "name": "Settings",
+        "filename": "Settings.xml"
+    },
+    {
+        "name": "ShutDownDialog",
+        "filename": "ShutDownDialog.xml"
+    },
+    {
+        "name": "Skin",
+        "filename": "Skin.xml"
+    },
+    {
+        "name": "SkipIconsBar - Element",
+        "filename": "elements/SkipIconsBar.xml"
+    },
+    {
+        "name": "SoundsSettings",
+        "filename": "SoundsSettings.xml"
+    },
+    {
+        "name": "StandBy",
+        "filename": "StandBy.xml"
+    },
+    {
+        "name": "Start",
+        "filename": "Start.xml"
+    },
+    {
+        "name": "StartupApplicationConfig",
+        "filename": "StartupApplicationConfig.xml"
+    },
+    {
+        "name": "StaticIPSetting",
+        "filename": "StaticIPSetting.xml"
+    },
+    {
+        "name": "StationSearcher - Element",
+        "filename": "elements/StationSearcher.xml"
+    },
+    {
+        "name": "StopRecording",
+        "filename": "StopRecording.xml"
+    },
+    {
+        "name": "Strings.de-DE",
+        "filename": "Strings.de-DE.xml"
+    },
+    {
+        "name": "Strings.en-US",
+        "filename": "Strings.en-US.xml"
+    },
+    {
+        "name": "strings.it-IT",
+        "filename": "strings.it-IT.xml"
+    },
+    {
+        "name": "Strings",
+        "filename": "Strings.xml"
+    },
+    {
+        "name": "Styles",
+        "filename": "Styles.xml"
+    },
+    {
+        "name": "SubscribedChannelsSettings",
+        "filename": "SubscribedChannelsSettings.xml"
+    },
+    {
+        "name": "SubtitleLanguageSettings",
+        "filename": "SubtitleLanguageSettings.xml"
+    },
+    {
+        "name": "SVodBrowseBar - Element",
+        "filename": "elements/SVodBrowseBar.xml"
+    },
+    {
+        "name": "SVodChannelRollover - Element",
+        "filename": "elements/SVodChannelRollover.xml"
+    },
+    {
+        "name": "SVodInfo",
+        "filename": "SVodInfo.xml"
+    },
+    {
+        "name": "SysInfo",
+        "filename": "SysInfo.xml"
+    },
+    {
+        "name": "TallDialog",
+        "filename": "TallDialog.xml"
+    },
+    {
+        "name": "TasmanPage",
+        "filename": "TasmanPage.xml"
+    },
+    {
+        "name": "TasmanTests",
+        "filename": "TasmanTests.xml"
+    },
+    {
+        "name": "Test",
+        "filename": "Test.xml"
+    },
+    {
+        "name": "TestLandingPage",
+        "filename": "TestLandingPage.xml"
+    },
+    {
+        "name": "TestNetworkConnection",
+        "filename": "TestNetworkConnection.xml"
+    },
+    {
+        "name": "THOME.Background.Guide",
+        "filename": "THOME.Background.Guide.xml"
+    },
+    {
+        "name": "THOME.Background.Menu",
+        "filename": "THOME.Background.Menu.xml"
+    },
+    {
+        "name": "THOME.Background.Page",
+        "filename": "THOME.Background.Page.xml"
+    },
+    {
+        "name": "TrickControls",
+        "filename": "TrickControls.xml"
+    },
+    {
+        "name": "tvreceivername",
+        "filename": "tvreceivername.xml"
+    },
+    {
+        "name": "UIinspector",
+        "filename": "UIinspector.xml"
+    },
+    {
+        "name": "UIPerfDiagnostics",
+        "filename": "UIPerfDiagnostics.xml"
+    },
+    {
+        "name": "UnitTestingPipTuning",
+        "filename": "UnitTestingPipTuning.xml"
+    },
+    {
+        "name": "UnmanagedErrorPage",
+        "filename": "UnmanagedErrorPage.xml"
+    },
+    {
+        "name": "UpcomingRecordingRollover - Element",
+        "filename": "elements/UpcomingRecordingRollover.xml"
+    },
+    {
+        "name": "UpcomingShow - Element",
+        "filename": "elements/UpcomingShow.xml"
+    },
+    {
+        "name": "Upgrade",
+        "filename": "Upgrade.xml"
+    },
+    {
+        "name": "UrlBrowseBar - Element",
+        "filename": "elements/UrlBrowseBar.xml"
+    },
+    {
+        "name": "UrlProgramInfo",
+        "filename": "UrlProgramInfo.xml"
+    },
+    {
+        "name": "UrlRollover - Element",
+        "filename": "elements/UrlRollover.xml"
+    },
+    {
+        "name": "VideoFullScreen",
+        "filename": "VideoFullScreen.xml"
+    },
+    {
+        "name": "VideoSeekBar - Element",
+        "filename": "elements/VideoSeekBar.xml"
+    },
+    {
+        "name": "VodAppBrowseBar - Element",
+        "filename": "elements/VodAppBrowseBar.xml"
+    },
+    {
+        "name": "VodAppRollover - Element",
+        "filename": "elements/VodAppRollover.xml"
+    },
+    {
+        "name": "VodBrowseBar - Element",
+        "filename": "elements/VodBrowseBar.xml"
+    },
+    {
+        "name": "VodCategoryRollover - Element",
+        "filename": "elements/VodCategoryRollover.xml"
+    },
+    {
+        "name": "VodCurrentRentals",
+        "filename": "VodCurrentRentals.xml"
+    },
+    {
+        "name": "VodCurrentRentalsSub",
+        "filename": "VodCurrentRentalsSub.xml"
+    },
+    {
+        "name": "VodCurrentRentalsSubStandalone",
+        "filename": "VodCurrentRentalsSubStandalone.xml"
+    },
+    {
+        "name": "VodDownloadedSub",
+        "filename": "VodDownloadedSub.xml"
+    },
+    {
+        "name": "VodDownloadsSub",
+        "filename": "VodDownloadsSub.xml"
+    },
+    {
+        "name": "VodPackage",
+        "filename": "VodPackage.xml"
+    },
+    {
+        "name": "VODProgramInfo",
+        "filename": "VODProgramInfo.xml"
+    },
+    {
+        "name": "VODProgramRollover - Element",
+        "filename": "elements/VODProgramRollover.xml"
+    },
+    {
+        "name": "VodPurchasesRollover - Element",
+        "filename": "elements/VodPurchasesRollover.xml"
+    },
+    {
+        "name": "VodScheduledSub",
+        "filename": "VodScheduledSub.xml"
+    },
+    {
+        "name": "VodStore",
+        "filename": "VodStore.xml"
+    },
+    {
+        "name": "VodStoreListSub",
+        "filename": "VodStoreListSub.xml"
+    },
+    {
+        "name": "VodStoreSub",
+        "filename": "VodStoreSub.xml"
+    },
+    {
+        "name": "VolumeControl",
+        "filename": "VolumeControl.xml"
+    },
+    {
+        "name": "Welcome",
+        "filename": "Welcome.xml"
+    },
+    {
+        "name": "WiFiDiagnostics",
+        "filename": "WiFiDiagnostics.xml"
+    },
+    {
+        "name": "WiFiSettings",
+        "filename": "WiFiSettings.xml"
+    },
+    {
+        "name": "WiFiSettingsConfirmation",
+        "filename": "WiFiSettingsConfirmation.xml"
+    },
+    {
+        "name": "WiFiSettingsNetworkSelection",
+        "filename": "WiFiSettingsNetworkSelection.xml"
+    },
+    {
+        "name": "WiFiSettingsPasscode",
+        "filename": "WiFiSettingsPasscode.xml"
+    },
+    {
+        "name": "ZoomControl",
+        "filename": "ZoomControl.xml"
+    }
+]

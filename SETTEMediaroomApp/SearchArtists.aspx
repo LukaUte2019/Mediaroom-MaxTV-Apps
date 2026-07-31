@@ -1,0 +1,1 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="SearchArtists.aspx.cs" Inherits="SearchArtists" %>

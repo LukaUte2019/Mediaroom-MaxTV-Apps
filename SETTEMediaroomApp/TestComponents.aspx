@@ -1,0 +1,1 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="TestComponents.aspx.cs" Inherits="TextComponents" %>

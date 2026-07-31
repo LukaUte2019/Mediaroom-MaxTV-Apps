@@ -1,0 +1,1 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="VideoTeka.aspx.cs" Inherits="_VideoTeka" %>
