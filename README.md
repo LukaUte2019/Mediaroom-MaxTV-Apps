@@ -14,7 +14,7 @@ A Node.js backend server that serves **TV Mediaroom-style applications** with Ne
 
 6. Press OK and close the window
 
-7. Open terminal and type: node mediaroom.js
+7. Open IIS and Set the folder of files to serve to the extracted files in repository
 
 8. The server will be started on http://172.16.40.101:80
 
